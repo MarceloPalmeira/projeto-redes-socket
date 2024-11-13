@@ -17,10 +17,10 @@ def desenhar_peca(pos, quem_jogou):
     x, y = pos  # Posição onde a peça será desenhada
     if quem_jogou == 2:
         # Se for o jogador 2, carrega e redimensiona a imagem de "O"
-        img = pygame.image.load('bola.png').convert_alpha()
+        img = pygame.image.load('ph.png').convert_alpha()
     else:
         # Se for o jogador 1, carrega e redimensiona a imagem de "X"
-        img = pygame.image.load('x.png').convert_alpha()
+        img = pygame.image.load('xv.png').convert_alpha()
     imgR = pygame.transform.scale(img, (150, 150))
     tela.blit(imgR, (x - 75, y - 75))  # Centraliza a imagem na posição desejada
 
