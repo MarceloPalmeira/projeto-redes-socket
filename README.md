@@ -35,9 +35,10 @@ python client.py
 ```
 Divirta-se! Agora você pode interagir com o servidor e os clientes, trocando mensagens ou realizando as ações implementadas.
 
-Discentes responsáveis pela elaboração do projeto:
+### Discentes responsáveis pela elaboração do projeto:
 
-Marcelo Palmeira Falcão
-Jose Milton de Moraes Neto
-João Raphael Leão Guimarães Oliveira
-Felipe Da Silva Araujo
+- Marcelo Palmeira Falcão
+- Jose Milton de Moraes Neto
+- João Raphael Leão Guimarães Oliveira
+- Felipe Da Silva Araujo
+
