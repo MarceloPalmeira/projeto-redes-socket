@@ -1,6 +1,6 @@
 # Projeto Redes Socket
 
-Projeto elaborado para a disciplina **Redes de Computadores**. Este projeto implementa uma aplicação de comunicação cliente-servidor usando **Sockets** em Python.
+Projeto elaborado para a disciplina **Redes de Computadores**. Este projeto implementa uma aplicação de comunicação cliente-servidor usando **Sockets** em Python para um jogo de **Tic Tac Toe** (Jogo da Velha).
 
 ## Como Executar o Projeto
 
