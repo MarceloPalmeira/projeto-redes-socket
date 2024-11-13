@@ -12,7 +12,7 @@ def desenhar_tabuleiro():
 def desenhar_peca(pos, quem_jogou): 
     x, y = pos
     if quem_jogou == 2:
-        img = pygame.image.load('circle.png').convert_alpha()
+        img = pygame.image.load('bola.png').convert_alpha()
         imgR = pygame.transform.scale(img, (150, 150)) 
         tela.blit(imgR, (x - 75, y - 75))
     else:
